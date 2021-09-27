@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-
 namespace Human
 {
     //Съзваме клас Human - рецепта за създаване на един човек
