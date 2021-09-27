@@ -13,13 +13,13 @@ namespace Human3
         private string name;
         private int age;
        
-        public string Name
+        public string Name //пропъртита
         {
             get { return name; }
             set { name = value; }
         }
 
-        public int Age
+        public int Age //пропъртита
         {
             get { return age; }
             set { age = value; }
