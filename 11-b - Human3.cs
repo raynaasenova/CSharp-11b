@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-
 namespace Human3
 {   //Създаваме клас Human - рецепта за създаване на един човек
     //Абстрактен тип данни, който създаваме ние, за разлика от примитивните типове данни, които се съдържат в C# като int, doube, string.
